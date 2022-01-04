@@ -1,3 +1,7 @@
+# The layout component is a component used to share a common section across multiple pages. The layout component will have the common header and footer section.
+## This is a basic React layout component
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
